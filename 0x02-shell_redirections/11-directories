@@ -1,0 +1,2 @@
+#!/bin/bash
+finid . -type d ! -path . -print | wc -1
